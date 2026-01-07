@@ -23,8 +23,13 @@ dist-ssr
 *.sln
 *.sw?
 
+# Secrets
 .env
 *.env
 backend/.env
 serviceAccountKey.json
 backend/serviceAccountKey.json
+
+# Node / Python
+node_modules/
+__pycache__/

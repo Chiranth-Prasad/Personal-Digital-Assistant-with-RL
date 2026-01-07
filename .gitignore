@@ -1,9 +1,10 @@
 # Secrets
 .env
 *.env
+backend/.env
 serviceAccountKey.json
 backend/serviceAccountKey.json
 
-# Node / Python
+# Dependencies
 node_modules/
 __pycache__/
