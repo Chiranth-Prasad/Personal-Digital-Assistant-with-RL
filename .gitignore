@@ -12,7 +12,6 @@ __pycache__/
 .env
 *.env
 backend/.env
-my-personal-assistant/backend/.env
 serviceAccountKey.json
 backend/serviceAccountKey.json
-my-personal-assistant/backend/serviceAccountKey.json
+my-assistant-projecy-firebase-adminsdk-fbsvc-6f468c99bf.json
